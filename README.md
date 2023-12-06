@@ -12,6 +12,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Back-end API Project](#back-end)
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -84,6 +85,10 @@ To test, run:
 ```
   npm test
 ```
+
+### Back-end API Project <a name="back-end"></a>
+
+Back-end API project [link](https://github.com/tajemouti/hello-rails-back-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
