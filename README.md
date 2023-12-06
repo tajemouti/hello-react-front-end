@@ -50,6 +50,12 @@ In order to use this project.. Clone this repository to your desired folder by p
   git clone https://github.com/tajemouti/hello-react-front-end.git
 ```
 
+  You can also clone the back-end project using the following command:
+
+```
+  git clone https://github.com/tajemouti/hello-rails-back-end.git
+```
+
 ### Prerequisites <a name="prerequisites"></a>
 
   Node
